@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FieldbookService</string>
+    <string-array name="eventName">
+        <item>Start Service</item>
+        <item>Stop Service</item>
+    </string-array>
+</resources>
